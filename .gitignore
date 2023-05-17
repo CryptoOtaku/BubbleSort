@@ -1,0 +1,7 @@
+ // Вывод отсортированного массива
+        System.out.println("Отсортированный массив:");
+        for (int number : numbers) {
+            System.out.print(number + " ");
+        }
+    }
+}
